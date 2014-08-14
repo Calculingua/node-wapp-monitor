@@ -1,0 +1,21 @@
+{
+  "name": "node-wapp-monitor",
+  "version": "0.0.0",
+  "description": "Node server for monitoring events inside a web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Calculingua/node-wapp-monitor.git"
+  },
+  "author": "William Burke",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Calculingua/node-wapp-monitor/issues"
+  },
+  "dependencies": {
+    "express": "~4.8.3"
+  }
+}
